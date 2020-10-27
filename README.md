@@ -8,7 +8,7 @@ git clone https://github.com/QQting/edimax_ac1200_driver.git
 
 ## Build driver
 ```bash
-cd ~/edimax_ac1200_driver
+cd ~/edimax_ac1200_driver/src
 make -j4
 ```
 
