@@ -1,5 +1,7 @@
 # EDIMAX AC1200 Linux Driver
 
+Verified on Ubuntu 20.04 with Linux Kernel 5.15.0-41-generic
+
 ## Prepare required packages
 
 ```bash
